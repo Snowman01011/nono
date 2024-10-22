@@ -1,0 +1,16 @@
+:root {
+    --dgreen: #079561;
+    --lgreen: #01b969;
+    --dark: #202020;
+    --light: #D2D4DA;
+    --oradius: 10px;
+    --hsize: 200px;
+    --wsize: 180px;
+    --fonthead: ;
+    --fontpar: Poppins;
+    --fontopt: ;
+}
+
+a:hover {
+    background-color: #1e4b38;
+}
